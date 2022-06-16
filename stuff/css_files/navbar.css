@@ -1,0 +1,19 @@
+
+.myNavbar{
+    background-color: #155e63;
+}
+
+.myNavBrand{
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.myItem{
+    font-size: 150%;
+    font-weight: 700;
+    color: white;
+}
+
+.myToggler{
+    font-weight: 700;
+}

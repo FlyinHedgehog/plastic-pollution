@@ -1,0 +1,24 @@
+
+body {
+    margin: 0;
+    width: 100%;
+    background: #f9f8eb;
+}
+
+.page-footer{
+    background-color: #155e63;
+}
+
+.cardBtn{
+    background-color: #155e63;
+}
+
+
+.myCard{
+    background-color: #f1b24b;
+}
+
+#textInput{
+    width: 100%;
+}
+

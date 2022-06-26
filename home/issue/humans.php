@@ -55,8 +55,8 @@
                             Issue
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="wildlife.html">Wildlife</a></li>
-                                <li><a class="dropdown-item" href="environment.html">Environment</a></li>
+                                <li><a class="dropdown-item" href="wildlife.php">Wildlife</a></li>
+                                <li><a class="dropdown-item" href="environment.php">Environment</a></li>
                                 <li><a class="dropdown-item active" aria-current="page">Humans</a></li>
                             </ul>
                         </li>

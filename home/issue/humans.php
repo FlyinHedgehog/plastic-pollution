@@ -64,7 +64,7 @@
                             <a class="nav-link myItem" href="../test-yourself.php">Quiz</a>
                         </li> 
                         <li class="nav-item mx-4">
-                            <a class="nav-link myItem" href="../about.html">About</a>
+                            <a class="nav-link myItem" href="../about.php">About</a>
                         </li>
                         <?php
                             if(isset($_COOKIE["mySpecialCookie"]))
